@@ -1,0 +1,10 @@
+Descripción del Proyecto
+La enfermedad cardíaca es la principal causa de muerte en los Estados Unidos. Los investigadores están utilizando 
+varias técnicas de minería de datos para ayudar a los profesionales de la salud en el diagnóstico de enfermedades 
+del corazón. En este proyecto, examinará la relación entre la frecuencia cardíaca máxima que se puede lograr 
+durante el ejercicio y la probabilidad de desarrollar una enfermedad cardíaca. Usando la regresión logística 
+múltiple, manejará los confusos efectos de la edad y el género.
+
+Aplicará las habilidades que aprendió en Regresión múltiple y logística , junto con el contenido de Introducción 
+a Tidyverse, incluidas las exploraciones de datos básicos con ggplot2 y dplyr. 
+Este proyecto utiliza el conjunto de datos de enfermedades cardíacas de Cleveland.
