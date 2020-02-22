@@ -17,4 +17,6 @@ R:
 Python:
 1. Exploring the Bitcoin Cryptocurrency Market
 2. TV, Halftime Shows, and the Big Game
+3. Predicting Credit Card Approvals
+4. A New Era of Data Analysis in Baseball
 
