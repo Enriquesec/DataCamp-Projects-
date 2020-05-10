@@ -20,4 +20,4 @@ Python:
 3. Predicting Credit Card Approvals
 4. A New Era of Data Analysis in Baseball
 5. Give Life/ Predict Blood Donations
-
+6. Exploring 67 years of LEGO
